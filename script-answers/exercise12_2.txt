@@ -1,0 +1,5 @@
+docker container run -it ubuntu bash
+mkdir ./usr/src/app
+nano ./usr/src/app/index.js
+touch ./usr/src/app/index.js
+exit
